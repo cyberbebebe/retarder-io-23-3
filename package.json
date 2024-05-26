@@ -1,9 +1,9 @@
 {
-  "name": "retarder-io-23-3-17",
+  "name": "retarder-io-23-3",
   "version": "2.1.0",
   "main": "index.js",
   "description": "Lab work on databases",
-  "repository": "https://github.com/nonGratis/retarder-io-23-3-17.git",
+  "repository": "https://github.com/cyberbebebe/retarder-io-23-3.git",
   "author": "Mykhailo Masterov <misha2005serg@gmail.com>",
   "license": "ECL 2.0",
   "scripts": {
